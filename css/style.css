@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Spectral:wght@400;700&display=swap");
+* {
+  font-family: "Spectral", serif;
+}
+.account {
+  border-radius: 100%;
+  width: 60px;
+}
+.contenitore {
+  background-color: blueviolet;
+}
+.hero {
+  color: white;
+  font-size: 1.5em;
+  text-align: justify;
+}
+h1 {
+  padding-top: 20px;
+  margin-left: 20px;
+}
+.hero p {
+  margin-left: 20px;
+  margin-top: 40px;
+  color: rgba(186, 180, 180, 0.878);
+  font-size: 1.2em;
+  line-height: 90%;
+}
+.blackman {
+  background-color: blueviolet;
+  width: 100%;
+}
+h2 {
+  margin: 10px;
+  font-weight: bold;
+}
+button {
+  margin-top: 30px;
+}
